@@ -6,6 +6,10 @@
 
 Arduino sketch used for light painting.
 
+[Watch video of the circle](demo/video.mp4)
+![](<demo/image%20(1).jpeg>)
+![](<demo/image%20(2).jpeg>)
+
 == Step 1: Installation
 
 1. Open LightCircle.ino
